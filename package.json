@@ -1,0 +1,23 @@
+{
+  "name": "testnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "export-to-csv": "latest",
+    "export-to-csv-file": "^0.2.2",
+    "express": "^4.17.1",
+    "joi": "latest",
+    "mongoose": "^5.9.5"
+  },
+  "devDependencies": {
+    "csv-parser": "^2.3.2",
+    "objects-to-csv": "^1.3.6"
+  }
+}
